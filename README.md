@@ -39,8 +39,8 @@
 
 未设置 tinkerId，编译时报错：
 
->Error:Execution failed for task ':app:tinkerProcessDebugManifest'.
-> tinkerId is not set!!!
+	Error:Execution failed for task ':app:tinkerProcessDebugManifest'.
+	tinkerId is not set!!!
 
 ![](https://github.com/weichao66666/Tinker_Demo/raw/master/README.md-assets/1496457558569_2.png)
 
